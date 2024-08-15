@@ -1,37 +1,32 @@
 {
-    "id001": {
+    "id-001": {
         "name": "Harry Potter1",
         "year": 2001,
         "author": "J.K. Rolling"
     },
-    "id002": {
+    "id-002": {
         "name": "Harry Potter2",
         "year": 2003,
         "author": "J.K. Rolling"
     },
-    "id003": {
+    "id-003": {
         "name": "Harry Potter3",
         "year": 2004,
         "author": "J.K. Rolling"
     },
-    "id005": {
+    "id-005": {
         "name": "harry potter5",
         "year": "2005",
         "author": "J.K. Rolling"
     },
-    "id004": {
+    "id-004": {
         "name": "fgs",
         "year": "2009",
         "author": "ghsta"
     },
-    "csj,hgsl": {
-        "name": "fsu8",
-        "year": "343627",
-        "author": "rf gnm"
-    },
-    "null": {
-        "name": null,
-        "year": null,
-        "author": null
+    "id-0001": {
+        "name": "bb",
+        "year": 2024,
+        "author": "js"
     }
 }
